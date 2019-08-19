@@ -1,0 +1,6 @@
+build/
+node_modules/
+artifacts/
+coverage/
+contracts-temp-build/
+package-lock.json
